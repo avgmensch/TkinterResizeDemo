@@ -1,0 +1,13 @@
+{
+    // Python
+    "python.analysis.typeCheckingMode": "strict",
+    "[python]": {
+        "editor.rulers": [79],
+        "editor.tabSize": 4
+    },
+
+    // Spell Checking
+    "cSpell.words": [
+        "Tkinter"
+    ]
+}
