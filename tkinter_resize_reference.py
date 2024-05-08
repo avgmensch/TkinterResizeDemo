@@ -1,12 +1,15 @@
 """
+Minimal working example.
+
 https://www.reddit.com/r/learnpython/comments/8cwmjm/comment/dxirh6d
+
+https://stackoverflow.com/a/7591453
 """
 
 import tkinter as tk
 import tkinter.ttk as ttk
 
 root = tk.Tk()
-root.title("Feet to Meters")
 root.columnconfigure(0, weight=1)
 root.rowconfigure(0, weight=1)
 
